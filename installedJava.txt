@@ -1,0 +1,8 @@
+ii  default-jdk                           2:1.11-71                            amd64        Standard Java or Java compatible Development Kit
+ii  default-jdk-headless                  2:1.11-71                            amd64        Standard Java or Java compatible Development Kit (headless)
+ii  openjdk-10-jre:amd64                  10.0.2+13-2                          amd64        OpenJDK Java runtime, using Hotspot JIT
+ii  openjdk-10-jre-headless:amd64         10.0.2+13-2                          amd64        OpenJDK Java runtime, using Hotspot JIT (headless)
+ii  openjdk-11-jdk:amd64                  11.0.4+11-1~deb10u1                  amd64        OpenJDK Development Kit (JDK)
+ii  openjdk-11-jdk-headless:amd64         11.0.4+11-1~deb10u1                  amd64        OpenJDK Development Kit (JDK) (headless)
+ii  openjdk-11-jre:amd64                  11.0.4+11-1~deb10u1                  amd64        OpenJDK Java runtime, using Hotspot JIT
+ii  openjdk-11-jre-headless:amd64         11.0.4+11-1~deb10u1                  amd64        OpenJDK Java runtime, using Hotspot JIT (headless)
