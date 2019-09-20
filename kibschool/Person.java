@@ -20,6 +20,7 @@ public class Person {
     role = userinput.nextLine();
     System.out.println( "Enter id number: " );
     idno = userinput.nextInt();
+    userinput.close();
   }
 
 }
