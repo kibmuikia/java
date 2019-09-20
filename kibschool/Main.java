@@ -16,10 +16,10 @@ public class Main {
     System.out.println( dogone.getDetails() );
     dogone.bark();
     dogone.bark( 2 );
-    // Rott r = new Rott( "boscow", 2 );
-    // System.out.println( r.getDetails() );
-    // r.bark();
-    // r.bark( 3 );
+    Rott r = new Rott();
+    System.out.println( r.getDetails() );
+    r.bark();
+    r.bark( 3 );
 
   }
 
